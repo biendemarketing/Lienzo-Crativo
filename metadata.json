@@ -1,0 +1,5 @@
+{
+  "name": "Lienzo Creativo AI",
+  "description": "A web-based design editor for creating print materials like brochures, cards, and invitations, enhanced with AI-powered layout generation. Users can add and manipulate text, shapes, and images on a canvas, manage layers, and inspect element properties.",
+  "requestFramePermissions": []
+}
